@@ -1,0 +1,6 @@
+C:\DotNet\Assignment-23\SharedLibrary\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\DotNet\Assignment-23\SharedLibrary\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\DotNet\Assignment-23\SharedLibrary\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+C:\DotNet\Assignment-23\SharedLibrary\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet\Assignment-23\SharedLibrary\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\DotNet\Assignment-23\SharedLibrary\SharedLibrary\obj\Debug\SharedLibrary.pdb
